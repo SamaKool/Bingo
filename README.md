@@ -29,7 +29,3 @@ Needs any C++11-capable compiler (g++, clang, MSVC).
   ...
   You: BI___ (2 lines)   Computer: B____ (1 lines)
 ```
-
-## License
-
-MIT
